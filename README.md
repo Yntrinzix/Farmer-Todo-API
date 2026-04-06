@@ -4,7 +4,7 @@
 
 ```bash
 npm install
-npm run setup       # starts Docker, runs migrations, seeds DB
+npm run setup       # starts Docker, generates Prisma client, runs migrations, seeds DB
 npm run dev         # starts dev server on http://localhost:3000
 ```
 
